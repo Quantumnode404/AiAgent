@@ -63,7 +63,7 @@ Governance DAO-driven research priorities Centralized funding decisions
 - Data Integrity: Every discovery is stored on-chain, creating a tamper-proof research log.
 - Quantum-Inspired Efficiency: Uses superposition and multi-variable logic to analyze complex problems with speed and precision.
 
-### Future Roadmap: Orion AI
+### Roadmap: Orion AI
 
 -Quantum-Inspired Algorithmic Foundations
 
