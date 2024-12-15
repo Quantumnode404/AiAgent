@@ -1,4 +1,4 @@
-# Orion AI Agent
+# Orion AI
 
 *A quantum-inspired AI agent that harnesses advanced algorithms to revolutionize research, discovery, and data ownership.*
 
