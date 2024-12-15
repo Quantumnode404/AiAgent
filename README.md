@@ -4,8 +4,6 @@
 
 *Twitter (https://x.com/OrionAIz)*
 
-*CA*
-
 ## Use Cases
 
 - Tokenized Research Marketplace
