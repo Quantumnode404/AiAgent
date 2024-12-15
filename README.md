@@ -2,6 +2,10 @@
 
 *A quantum-inspired AI agent that harnesses advanced algorithms to revolutionize research, discovery, and data ownership.*
 
+*Twitter (https://x.com/OrionAIz)*
+
+*CA*
+
 ## Use Cases
 
 - Tokenized Research Marketplace
