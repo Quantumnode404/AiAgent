@@ -59,21 +59,11 @@ Governance DAO-driven research priorities Centralized funding decisions
 
 ### Why It Matters
 
-Massive time and cost savings in research and development.
-
-Accelerates drug discovery, allowing pharmaceutical companies to develop treatments faster.
-
-Can simulate molecular interactions, particle physics, and chemical reactions in record time.
-Summary: Why Orion Is Superior to Classical AI Agents
-
-Speed: Processes multiple outcomes simultaneously, unlike step-by-step classical AI.
-
-Ownership: Tokenizes insights so users can claim, license, and monetize their data.
-
-Collaboration: Uses a DAO model for collaborative research with shared royalties.
-
-Data Integrity: Every discovery is stored on-chain, creating a tamper-proof research log.
-Quantum-Inspired Efficiency: Uses superposition and multi-variable logic to analyze complex problems with speed and precision.
+- Speed: Processes multiple outcomes simultaneously, unlike step-by-step classical AI.
+- Ownership: Tokenizes insights so users can claim, license, and monetize their data.
+- Collaboration: Uses a DAO model for collaborative research with shared royalties.
+- Data Integrity: Every discovery is stored on-chain, creating a tamper-proof research log.
+- Quantum-Inspired Efficiency: Uses superposition and multi-variable logic to analyze complex problems with speed and precision.
 
 ## Conclusion
 
