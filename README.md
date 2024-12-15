@@ -1,6 +1,6 @@
-# NeuralQ Agent: Quantum-Inspired Metaheuristic Neural Network Agents for Lua
+# Orion AI Agent
 
-NeuralQ Agent is a Lua library designed to facilitate the integration of artificial intelligence and neural networks into your projects. This library is particularly tailored for applications ranging from education to game development, offering both classical and quantum-inspired neural network models.
+*A quantum-inspired AI agent that harnesses advanced algorithms to revolutionize research, discovery, and data ownership.*
 
 ## Key Features
 
