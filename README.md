@@ -9,7 +9,7 @@
 - Cryptography & Quantum Security
 - Scientific Collaboration & Research DAO
 
-## Getting Started
+## Code
 
 ```lua
 local Orion AI = require(script.Parent.Orionai)
