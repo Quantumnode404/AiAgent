@@ -4,7 +4,9 @@
 
 ## Key Features
 
-- Simple yet powerful neural network implementation in Lua
+- Tokenized Research Marketplace
+How It Works: Scientists can mint their discoveries as NFTs and list them on the Orion Marketplace.
+Example: A researcher discovers a new way to synthesize graphene. They upload their methodology, which Orion validates and records on-chain. The method is then listed as a data-backed NFT for other researchers to purchase, license, or collaborate on.
 - Quantum-inspired algorithms for advanced problem-solving
 - Suitable for educational purposes and complex AI in games
 - Detailed documentation to help you get started quickly
