@@ -2,25 +2,17 @@
 
 *A quantum-inspired AI agent that harnesses advanced algorithms to revolutionize research, discovery, and data ownership.*
 
-## Key Features
+## Use Cases
 
 - Tokenized Research Marketplace
-How It Works: Scientists can mint their discoveries as NFTs and list them on the Orion Marketplace.
-Example: A researcher discovers a new way to synthesize graphene. They upload their methodology, which Orion validates and records on-chain. The method is then listed as a data-backed NFT for other researchers to purchase, license, or collaborate on.
-- Quantum-inspired algorithms for advanced problem-solving
-- Suitable for educational purposes and complex AI in games
-- Detailed documentation to help you get started quickly
+- Drug Discovery & Molecular Modeling
+- Cryptography & Quantum Security
+- Scientific Collaboration & Research DAO
 
 ## Getting Started
 
-To begin using NeuralQ Agent, include the library in your Lua project. This library is designed to be intuitive, allowing you to easily create and train neural networks.
-
-### Example: AI Drone Decision Making
-
-This example demonstrates how to use NeuralQ Agent to simulate an AI drone making strategic decisions based on its environment and status. The scenario considers factors like enemy proximity, resource availability, and support level to decide between exploring, calling for support, engaging in combat, or retreating.
-
 ```lua
-local NeuralQAgent = require(script.Parent.NeuralQAgent)
+local Orion AI = require(script.Parent.Orionai)
 
 -- Main module logic
 local function main()
@@ -35,7 +27,7 @@ local function main()
 	}
 
     -- Initialize a quantum-inspired neural network
-	local aiDrone = NeuralQAgent.QuantumNeuralNetwork.new(3, 12, 4)
+	local aiDrone = OrionAI.QuantumNetwork.new(3, 12, 4)
 	aiDrone:train(trainingData, 1000)
 
 	local gameScenario = {1, 1, 0}  -- Example scenario
