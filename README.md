@@ -25,7 +25,7 @@ local function main()
 	}
 
     -- Initialize a quantum-inspired neural network
-	local aiDrone = OrionAI.QuantumNetwork.new(3, 12, 4)
+	local aiDrone = Polaris.QuantumNetwork.new(3, 12, 4)
 	aiDrone:train(trainingData, 1000)
 
 	local gameScenario = {1, 1, 0}  -- Example scenario
