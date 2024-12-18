@@ -1,4 +1,4 @@
-# Orion AI
+# POLARIS AI
 
 *A quantum-inspired AI agent that harnesses advanced algorithms to revolutionize research, discovery, and data ownership.*
 
@@ -14,7 +14,7 @@
 ## Code
 
 ```lua
-local Orion AI = require(script.Parent.Orionai)
+local POLARIS AI = require(script.Parent.Orionai)
 
 -- Main module logic
 local function main()
@@ -45,15 +45,10 @@ main()
 
 ## Documentation
 
-### How Orion AI is Different
+### Concept Overview
 
-Orion AI (Hybrid AI + Blockchain) Traditional Research Agents
-Ownership Research data tokenized on-chain No ownership; publishers own data
-Computation Type Hybrid (Classical + Quantum-Inspired) Classical AI (Linear)
-Monetization Monetize research with tokenized insights No user compensation
-Speed Processes multiple possibilities simultaneously Sequential logic
-User Interaction Chat-based assistant and marketplace Limited to manual reports
-Governance DAO-driven research priorities Centralized funding decisions
+Polaris AI next-generation hybrid AI agent that merges the reasoning capabilities of classical AI with the problem-solving power of quantum-inspired algorithms. Unlike traditional AI systems that rely on linear logic, Polaris taps into quantum superposition and entanglement principles to analyze multiple outcomes simultaneously. This hybrid system allows Polaris to solve complex, multi-variable problems with precision, speed, and insight that far surpasses classical AI alone.
+
 
 ### Why It Matters
 
@@ -63,7 +58,7 @@ Governance DAO-driven research priorities Centralized funding decisions
 - Data Integrity: Every discovery is stored on-chain, creating a tamper-proof research log.
 - Quantum-Inspired Efficiency: Uses superposition and multi-variable logic to analyze complex problems with speed and precision.
 
-### Roadmap: Orion AI
+### Roadmap:
 
 -Quantum-Inspired Algorithmic Foundations
 
