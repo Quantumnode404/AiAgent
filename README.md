@@ -1,16 +1,13 @@
-# POLARIS AI
+# Osiris AI
 
 *A Hybrid AI Agent Powered by Classical AI and Quantum-Inspired Algorithms*
 
-*Twitter (https://x.com/Polaris_AIx)*
-
-*Chatbot/Website (https://polaris-ai.xyz/)*
 
 
 ## Code
 
 ```lua
-local POLARIS AI = require(script.Parent.Orionai)
+local Osiris AI = require(script.Parent.Orionai)
 
 -- Main module logic
 local function main()
@@ -25,7 +22,7 @@ local function main()
 	}
 
     -- Initialize a quantum-inspired neural network
-	local aiDrone = Polaris.QuantumNetwork.new(3, 12, 4)
+	local aiDrone = Osiris.QuantumNetwork.new(3, 12, 4)
 	aiDrone:train(trainingData, 1000)
 
 	local gameScenario = {1, 1, 0}  -- Example scenario
@@ -43,10 +40,10 @@ main()
 
 ### Concept Overview
 
-Polaris AI next-generation hybrid AI agent that merges the reasoning capabilities of classical AI with the problem-solving power of quantum-inspired algorithms. Unlike traditional AI systems that rely on linear logic, Polaris taps into quantum superposition and entanglement principles to analyze multiple outcomes simultaneously. This hybrid system allows Polaris to solve complex, multi-variable problems with precision, speed, and insight that far surpasses classical AI alone.
+Osiris AI next-generation hybrid AI agent that merges the reasoning capabilities of classical AI with the problem-solving power of quantum-inspired algorithms. Unlike traditional AI systems that rely on linear logic, Polaris taps into quantum superposition and entanglement principles to analyze multiple outcomes simultaneously. This hybrid system allows Polaris to solve complex, multi-variable problems with precision, speed, and insight that far surpasses classical AI alone.
 
 
-### What Makes Polaris AI Unique?
+### What Makes Osiris AI Unique?
 
 - Quantum-Classical Synergy
 - Predictive Pattern Recognition
@@ -54,7 +51,7 @@ Polaris AI next-generation hybrid AI agent that merges the reasoning capabilitie
 - Quantum-Classical Computation
   
 
-### Use Cases of Polaris AI:
+### Use Cases of Osiris AI:
 
 
 1. Market Sentiment Analysis & Trading AI
@@ -79,4 +76,4 @@ Example: A cybersecurity analyst asks, "Is there any unusual traffic on the netw
 
 ## Conclusion
 
-Polaris's concept is both feasible and transformative. Quantum-inspired algorithms are already being used by companies like D-Wave, Google Quantum AI, and Azure Quantum. By combining this logic with blockchain and AI-driven research, Polaris becomes a game-changing agent for researchers, scientists, and innovators worldwide.
+Osiris's concept is both feasible and transformative. Quantum-inspired algorithms are already being used by companies like D-Wave, Google Quantum AI, and Azure Quantum. By combining this logic with blockchain and AI-driven research, Polaris becomes a game-changing agent for researchers, scientists, and innovators worldwide.
