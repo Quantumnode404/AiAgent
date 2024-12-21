@@ -1,7 +1,6 @@
 # Osiris AI
 
-*A Hybrid AI Agent Powered by Classical AI and Quantum-Inspired Algorithms*
-
+*Osiris is a next-gen Quantum Hybrid AI Agent revolutionizing discovery, simulation, and complex problem-solving.*
 
 
 ## Code
