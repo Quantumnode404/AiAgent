@@ -7,7 +7,7 @@
 ## Code
 
 ```lua
-local Osiris AI = require(script.Parent.Orionai)
+local Osiris AI = require(script.Parent.Osiris)
 
 -- Main module logic
 local function main()
