@@ -1,12 +1,12 @@
-# Osiris AI
+# Spectre AI
 
-*Osiris is a next-gen Quantum Hybrid AI Agent revolutionizing discovery, simulation, and complex problem-solving.*
+*A cosmic gateway where the universe meets Solana, transforming the movements of stars into digital brilliance*
 
 
 ## Code
 
 ```lua
-local Osiris AI = require(script.Parent.Osiris)
+local Spectre AI = require(script.Parent.Spectre)
 
 -- Main module logic
 local function main()
@@ -20,8 +20,8 @@ local function main()
 		-- Additional scenarios...
 	}
 
-    -- Initialize a quantum-inspired neural network
-	local aiDrone = Osiris.QuantumNetwork.new(3, 12, 4)
+    -- Initialize a 
+	local aiDrone = Spectre.QuantumNetwork.new(3, 12, 4)
 	aiDrone:train(trainingData, 1000)
 
 	local gameScenario = {1, 1, 0}  -- Example scenario
@@ -39,10 +39,10 @@ main()
 
 ### Concept Overview
 
-Osiris AI next-generation hybrid AI agent that merges the reasoning capabilities of classical AI with the problem-solving power of quantum-inspired algorithms. Unlike traditional AI systems that rely on linear logic, Polaris taps into quantum superposition and entanglement principles to analyze multiple outcomes simultaneously. This hybrid system allows Osiris to solve complex, multi-variable problems with precision, speed, and insight that far surpasses classical AI alone.
+Spectre AI next-generation hybrid AI agent that merges the reasoning capabilities of classical AI with the problem-solving power of quantum-inspired algorithms. Unlike traditional AI systems that rely on linear logic, Polaris taps into quantum superposition and entanglement principles to analyze multiple outcomes simultaneously. This hybrid system allows Osiris to solve complex, multi-variable problems with precision, speed, and insight that far surpasses classical AI alone.
 
 
-### What Makes Osiris AI Unique?
+### What Makes Spectre AI Unique?
 
 - Quantum-Classical Synergy
 - Predictive Pattern Recognition
@@ -50,7 +50,7 @@ Osiris AI next-generation hybrid AI agent that merges the reasoning capabilities
 - Quantum-Classical Computation
   
 
-### Use Cases of Osiris AI:
+### Use Cases of Spectre AI:
 
 
 1. Market Sentiment Analysis & Trading AI
