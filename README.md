@@ -39,18 +39,24 @@ main()
 
 ### Core Features
 
-⭑ Celestial Asset Creation
-⭑ Astronomical Data Utilities
-⭑ Blockchain Integration with Solana
-⭑ Customizable Utilities
+⭑ Celestial Asset Creation.
+
+⭑ Astronomical Data Utilities.
+
+⭑ Blockchain Integration with Solana.
+
+⭑ Customizable Utilities.
 
 
 ### Applications:
 
-⭑ Assest Mining 
-⭑ Event and Experience Design
-⭑ Gaming and Tokenomics
-⭑ Customizable Utilities
+⭑ Assest Mining.
+
+⭑ Event and Experience Design.
+
+⭑ Gaming and Tokenomics.
+
+⭑ Customizable Utilities.
 
 ## Conclusion
 
